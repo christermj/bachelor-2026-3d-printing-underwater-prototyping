@@ -71,7 +71,7 @@ Bacheloroppgaven undersøker hvordan FDM-printede polymerer påvirkes av langtid
 │   │   ├── PLA-datasheet.pdf
 │   │   ├── PETG-datasheet.pdf
 │   │   └── ASA-datasheet.pdf
-│   ├── Gjennomsnitt strekkprøver final.xlsx
+│   ├── Gjennomsnitt strekkprøver.xlsx
 │   └── Lakkering.xlsx
 ├── figurer/
 │   ├── grafer/                         # Grafer fra strekkprøvemaskin
