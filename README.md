@@ -2,7 +2,7 @@
 
 ## 📚 En helhetlig studie av 3D-printet prototyping for bruk i undervannsmiljøer
 
-**Hovedoppgaven:** [`rapport/Bachelor%20Maskiningeni%C3%B8r%202026.pdf`](./rapport/Hovedoppgave%20Bachelor%20-%202026_Fixed_2.pdf)
+**Hovedoppgaven:** [`rapport/Bachelor Maskiningeniør 2026.pdf`](./Bachelor%20Maskiningeni%C3%B8r%202026.pdf)
 
 ---
 
