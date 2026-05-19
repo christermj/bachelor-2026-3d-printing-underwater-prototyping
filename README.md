@@ -67,7 +67,11 @@ Bacheloroppgaven undersøker hvordan FDM-printede polymerer påvirkes av langtid
 │   ├── Vedlegg 3 - Intervju med Magnus Hesle.pdf
 │   └── Vedlegg_strekkmaskin-hastighet_v2.docx
 ├── data/
-│   ├── Gjennomsnitt strekkprøver.xlsx
+│   ├── filament-datablader/
+│   │   ├── PLA-datasheet.pdf
+│   │   ├── PETG-datasheet.pdf
+│   │   └── ASA-datasheet.pdf
+│   ├── Gjennomsnitt strekkprøver final.xlsx
 │   └── Lakkering.xlsx
 ├── figurer/
 │   ├── grafer/                         # Grafer fra strekkprøvemaskin
@@ -93,6 +97,7 @@ Alle vedlegg til oppgaven:
 
 ### 📊 [`data/`](./data/)
 Rådata og datasett:
+- **`filament-datablader/`** - Datablader fra produsenter for PLA, PETG og ASA
 - Strekkprøvedata (gjennomsnitt)
 - Lakkerings-data
 
