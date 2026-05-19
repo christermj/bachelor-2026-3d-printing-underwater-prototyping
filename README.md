@@ -32,11 +32,11 @@ Den komplette oppgaven finner du her:
 ├── attachments/
 │   ├── images/                      # Bilder og figurer
 │   ├── data/                        # Datasett og resultater
-│   ├── code/                        # Relevant kode
-│   └── drawings/                    # Tekniske tegninger
+│   ├── drawings/                    # Tekniske tegninger og CAD-filer
+│   └── tables/                      # Tabeller og grafer
 ├── docs/
 │   ├── INSTALLATION.md              # Installasjonsveiledning
-│   ├── USAGE.md                     # Bruksanvisning
+│   ├── METHODOLOGY.md               # Metodologi
 │   └── REFERENCES.md                # Referanser
 └── README.md                        # Denne filen
 ```
@@ -49,20 +49,20 @@ Den komplette oppgaven finner du her:
 Finn alle illustrasjoner og bilder i [`attachments/images/`](./attachments/images/)
 
 ### Data og Resultater
-Se [`attachments/data/`](./attachments/data/) for datasett og målresultater
-
-### Kode
-Relevant kode og skript ligger i [`attachments/code/`](./attachments/code/)
+Se [`attachments/data/`](./attachments/data/) for datasett og måleresultater
 
 ### Tegninger
-Tekniske tegninger finnes i [`attachments/drawings/`](./attachments/drawings/)
+Tekniske tegninger, CAD-filer og skisser finnes i [`attachments/drawings/`](./attachments/drawings/)
+
+### Tabeller og Grafer
+Alle tabeller og grafer ligger i [`attachments/tables/`](./attachments/tables/)
 
 ---
 
 ## 📖 Dokumentasjon
 
 - [Installasjon og oppsett](./docs/INSTALLATION.md)
-- [Bruksanvisning](./docs/USAGE.md)
+- [Metodologi](./docs/METHODOLOGY.md)
 - [Referanser og kilder](./docs/REFERENCES.md)
 
 ---
