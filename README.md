@@ -59,8 +59,8 @@ Bacheloroppgaven undersøker hvordan FDM-printede polymerer påvirkes av langtid
 ```
 .
 ├── README.md                           # Denne filen
-├── rapport/
-│   └── Hovedoppgave Bachelor - 2026_Fixed_2.docx
+├── rapport/Bachelor Maskiningeniør 2026.pdf
+│   └── 
 ├── vedlegg/
 │   ├── Vedlegg 1 - Strekkdata grafvedlegg.pdf
 │   ├── Vedlegg 2 - Intervju med Olav Håskjold.pdf
