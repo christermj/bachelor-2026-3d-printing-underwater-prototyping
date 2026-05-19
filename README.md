@@ -93,7 +93,7 @@ Hovedoppgaven i fullt format
 Alle vedlegg til oppgaven:
 - Strekkdata grafer (PDF)
 - Intervjuer
-- Tekniske spesifikasjoner
+- Budsjett
 
 ### 📊 [`data/`](./data/)
 Rådata og datasett:
