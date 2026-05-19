@@ -70,12 +70,12 @@ Bacheloroppgaven undersøker hvordan FDM-printede polymerer påvirkes av langtid
 │   ├── 3_Gjennomsnitt strekkprøver final (1).xlsx
 │   └── Lakkering.xlsx
 ├── figurer/
-│   ├── grafer/                         # Grafer og datasett-visualiseringer
+│   ├── grafer/                         # Grafer fra strekkprøvemaskin
 │   ├── mikroskopi/                     # Mikroskopibilder
-│   └── illustrasjoner/                 # Andre illustrasjoner og bilder
+│   └── illustrasjoner/                 # Andre bilder og illustrasjoner
 └── cad/
-    ├── prototypekapsling/              # CAD-modeller av kapslingen
-    └── tegninger/                      # Tekniske tegninger
+    ├── prototypekapsling/              # 3D-modeller av kapslingen
+    └── tegninger/                      # 2D tekniske tegninger
 ```
 
 ---
@@ -87,7 +87,7 @@ Hovedoppgaven i fullt format
 
 ### 📎 [`vedlegg/`](./vedlegg/)
 Alle vedlegg til oppgaven:
-- Strekkdata grafer
+- Strekkdata grafer (PDF)
 - Intervjuer
 - Tekniske spesifikasjoner
 
@@ -97,7 +97,7 @@ Rådata og datasett:
 - Lakkerings-data
 
 ### 🖼️ [`figurer/`](./figurer/)
-Alle bilder, grafer og illustrasjoner brukt i rapporten
+Alle bilder og illustrasjoner brukt i rapporten
 
 ### 🏗️ [`cad/`](./cad/)
 CAD-modeller og tekniske tegninger av prototypekapslingen
@@ -126,15 +126,20 @@ ASA anbefales som førstevalgsmateriale for 3D-printede undervannsprototyper. Ov
 
 ---
 
-## 📅 Dato
+## 📧 Kontakt
 
-**2026**
+**Forfattere:**
+- Christer Markussen Jusnes - christermj@live.no
+- Tor Henrik Lehne - thlehne@gmail.com
+- Veronika Hesle - veronikahesle@gmail.com
+- Emilie Enerhaugen Thrane - emiliethra98@hotmail.com
+- Jonatan Graff Ravnvik - jonatan.graff@outlook.com
 
 ---
 
-## 📧 Kontakt
+## 📅 Dato
 
-For spørsmål om oppgaven, kontakt forfatterne via GitHub eller Universitetet i Sørøst-Norge.
+**2026**
 
 ---
 
