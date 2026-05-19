@@ -67,7 +67,7 @@ Bacheloroppgaven undersøker hvordan FDM-printede polymerer påvirkes av langtid
 │   ├── Vedlegg 3 - Intervju med Magnus Hesle.pdf
 │   └── Vedlegg_strekkmaskin-hastighet_v2.docx
 ├── data/
-│   ├── 3_Gjennomsnitt strekkprøver final (1).xlsx
+│   ├── Gjennomsnitt strekkprøver.xlsx
 │   └── Lakkering.xlsx
 ├── figurer/
 │   ├── grafer/                         # Grafer fra strekkprøvemaskin
