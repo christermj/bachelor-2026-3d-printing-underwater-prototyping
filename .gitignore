@@ -1,0 +1,30 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build files
+node_modules/
+dist/
+build/
+
+# Large files (if needed, add specific patterns)
+*.iso
+*.dmg
+
+# System files
+.env
+.env.local
