@@ -65,18 +65,24 @@ Bacheloroppgaven undersøker hvordan FDM-printede polymerer påvirkes av langtid
 │   ├── Vedlegg 1 - Strekkdata grafvedlegg.pdf
 │   ├── Vedlegg 2 - Intervju med Olav Håskjold.pdf
 │   ├── Vedlegg 3 - Intervju med Magnus Hesle.pdf
+│   ├── Vedlegg 4 - Budsjett.pdf
 │   └── Vedlegg_strekkmaskin-hastighet_v2.docx
 ├── data/
 │   ├── filament-datablader/
 │   │   ├── PLA-datasheet.pdf
 │   │   ├── PETG-datasheet.pdf
 │   │   └── ASA-datasheet.pdf
+│   ├── ekstra/
+│   │   ├── Beskrivelse av gjennomføring av veiing.docx
+│   │   ├── Beskrivelse av strekktest og registrering av resultater.docx
+│   │   ├── Liste over hva vi ser etter under mikroskopering.docx
+│   │   ├── Møtereferat Magnus Hesle.docx
+│   │   └──  Møtereferat Olav Håskjold.docx
 │   ├── Gjennomsnitt strekkprøver.xlsx
 │   ├── Vannopptak - masseendring over tid - Tabeller (Diagrammer for vektendring, permanent vektendring og prosentberegning).xlsx
 │   ├── arrhenius_graph_endelig_versjon.xlsx
 │   └── Lakkering.xlsx
 ├── figurer/
-│   ├── grafer/                         # Grafer fra strekkprøvemaskin
 │   ├── mikroskopi/                     # Mikroskopibilder
 │   └── illustrasjoner/                 # Andre bilder og illustrasjoner
 └── cad/
