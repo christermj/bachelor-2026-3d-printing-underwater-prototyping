@@ -72,6 +72,8 @@ Bacheloroppgaven undersøker hvordan FDM-printede polymerer påvirkes av langtid
 │   │   ├── PETG-datasheet.pdf
 │   │   └── ASA-datasheet.pdf
 │   ├── Gjennomsnitt strekkprøver.xlsx
+│   ├── Vannopptak - masseendring over tid - Tabeller (Diagrammer for vektendring, permanent vektendring og prosentberegning).xlsx
+│   ├── arrhenius_graph_endelig_versjon.xlsx
 │   └── Lakkering.xlsx
 ├── figurer/
 │   ├── grafer/                         # Grafer fra strekkprøvemaskin
