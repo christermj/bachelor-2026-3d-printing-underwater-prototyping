@@ -106,6 +106,7 @@ Alle vedlegg til oppgaven:
 ### 📊 [`data/`](./data/)
 Rådata og datasett:
 - **`filament-datablader/`** - Datablader fra produsenter for PLA, PETG og ASA
+- **`ekstra/`** - Datafiler som er omarbeidet, strukturert eller brukt som grunnlag
 - Strekkprøvedata (gjennomsnitt)
 - Lakkerings-data
 
