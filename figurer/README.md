@@ -1,2 +1,2 @@
 # Figurer folder
-Bilder, grafer og illustrasjoner
+Bilder og illustrasjoner
