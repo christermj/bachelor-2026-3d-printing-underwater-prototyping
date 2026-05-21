@@ -112,10 +112,10 @@ Rådata og datasett:
 - Lakkerings-data
 
 ### 🖼️ [`figurer/`](./figurer/)
-Supplerende visuell dokumentasjon fra prosjektet, for eksempel mikroskopibilder og prosjektbilder som ikke nødvendigvis inngår direkte i hovedrapporten.
+Supplerende visuell dokumentasjon fra prosjektet, for eksempel mikroskopibilder og prosjektbilder som ikke nødvendigvis inngår direkte i hovedrapporten
 
 ### 🏗️ [`cad/`](./cad/)
-CAD-modeller og tekniske tegninger av prototypekapslingen
+CAD-modeller og tekniske tegninger
 
 ---
 
