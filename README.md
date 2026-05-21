@@ -137,7 +137,7 @@ Oppgaven undersøker:
 
 ## 🎯 Konklusjon
 
-ASA anbefales som førstevalgsmateriale for 3D-printede undervannsprototyper. Overflatebehandling med Jotun Vinyl Primer viste lovende resultater for ytterligere beskyttelse.
+ASA anbefales som førstevalgsmateriale for ubehandlede 3D-printede undervannsprototyper. Overflatebehandling med Jotun Vinyl Primer viste lovende resultater for ytterligere beskyttelse. PETG kan brukes der duktilitet og enkel produksjon prioriteres. PLA anbefales ikke for langvarig eksponering i saltvann.
 
 ---
 
