@@ -87,6 +87,7 @@ Bacheloroppgaven undersøker hvordan FDM-printede polymerer påvirkes av langtid
 │   └── illustrasjoner/                 # Andre bilder og illustrasjoner
 └── cad/
     ├── prototypekapsling/              # 3D-modeller av kapslingen
+    ├── strekkprøver/                   # 3D-modeller av strekkprøvene
     └── tegninger/                      # 2D tekniske tegninger
 ```
 
